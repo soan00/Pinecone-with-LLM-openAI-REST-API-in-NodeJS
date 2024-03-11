@@ -1,0 +1,1 @@
+# Pinecone-with-LLM-openAI-REST-API-in-NodeJS
